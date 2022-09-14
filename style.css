@@ -1,0 +1,117 @@
+body{
+  margin: 0px;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+.top-container{
+ background: #EAF6F6;
+ position: relative;
+ padding-top: 15%;
+ }
+h1{
+  margin: 0;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+.top-container p{
+  margin: 0;
+  font-size: 2.5rem;
+    color: #66BFBF;
+}
+#img1{
+  position:absolute;
+  top:55%;
+  left: 25%;
+}
+#img2{
+  position: absolute;
+  right: 27%;
+  bottom: 75%;
+}
+.profile{
+  width: 30%;
+  margin: 0 auto;
+}
+.profile img{
+  width: 15rem;
+  height: 15rem;
+  margin-top:5%;
+  margin-bottom: 50px;
+}
+.profile p{
+  margin-bottom: 80px;
+  line-height: 2;
+}
+.hr{
+  border-style:  dotted none none;
+  border-width: 7px;
+  border-color: grey;
+  width: 6%;
+}
+
+.skills{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2
+}
+.skills h2{
+  text-align: center;
+}
+.skill-row{
+  margin-top: 50px;
+}
+.website{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.ios{
+  width: 25%;
+  float: right;
+
+  margin-left:  30px;
+}
+.contact-me{
+  margin-top: 7rem;
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+}
+.bottom-container{
+  padding: 4rem 0 2rem 0;
+  background-color: #66BFBF;
+  margin-top: 6rem
+}
+.footer-link{
+  text-decoration: none;
+  margin: 0px 3% 0px 3%;
+  color:#11999E;
+}
+.footer-link:hover{
+  color: white;
+}
+.btn{
+  padding: 1rem 2rem;
+  background-color:#66BFBF;
+  text-decoration: none;
+  color: white;
+  border-radius: 20px;
+ }
+ .btn:hover{
+   background-color: #A68DAD;
+   color: #11999E;
+ }
+.contact-message{
+  margin: 50px 0px 70px 0px;
+}
+.bottom-container p{
+  color:white;
+}
